@@ -1,0 +1,26 @@
+Row	Date	Meal Type	Food Items Consumed	Calories
+1	2023-09-21	Breakfast	Scrambled eggs, toast	300
+2	2023-09-21	Lunch	Grilled chicken salad	450
+2	2023-09-21	Dinner	Spaghetti, garlic bread	600
+8	2023-09-22	Breakfast	Oatmeal, banana	250
+8	2023-09-22	Lunch	Turkey sandwich, apple	400
+8	2023-09-22	Dinner	Beef stir-fry, brown rice	500
+8	2023-09-23	Breakfast	Yogurt, mixed berries	200
+8	2023-09-23	Lunch	Tuna salad, whole-wheat crackers	350
+9	2023-09-23	Dinner	Chicken fajitas, tortillas	550
+10	2023-09-24	Breakfast	Pancakes, maple syrup	350
+11	2023-09-24	Lunch	Veggie burger, sweet potato fries	400
+12	2023-09-24	Dinner	Baked salmon, steamed vegetables	450
+13	2023-09-25	Breakfast	Smoothie (spinach, banana, protein powder)	250
+14	2023-09-25	Lunch	Chicken Caesar salad	400
+15	2023-09-25	Dinner	Pork chop, mashed potatoes, green beans	600
+16	2023-09-26	Breakfast	Bagel, cream cheese	350
+17	2023-09-26	Lunch	Sushi roll, miso soup	450
+18	2023-09-26	Dinner	Chicken curry, basmati rice	550
+19	2023-09-27	Breakfast	Avocado toast, orange juice	300
+20	2023-09-27	Lunch	Quinoa salad, grilled vegetables	350
+21	2023-09-27	Dinner	Beef stew, whole-wheat bread	500
+22	2023-09-28	Breakfast	Cereal, skim milk	200
+23	2023-09-28	Lunch	Chicken wrap, side salad	400
+24	2023-09-28	Dinner	Shrimp stir-fry, jasmine rice	500
+25	2023-09-29	Breakfast	French toast, berries	300

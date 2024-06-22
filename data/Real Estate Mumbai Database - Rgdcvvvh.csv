@@ -1,0 +1,54 @@
+Property ID,PROPERTY STREET,PROPERTY ADDRESS,NUMBER OF BEDROOMS,TRANSACTION TYPE,TRANSACTION DATE,AMOUNT IN (INR),CLIENT AGE
+1," Sagar Tarang, 12 Smt. Shobha Bhaskar Joshi Marg",400050,2,RENT,2/2/2023,15000,26
+2,D Lodha Case Rio Gold Rd (Planned),421204,2,RENT,3/2/2023,15500,23
+3,"Kaveri CHS, Sector-5 Utsav Chowk",410210,3,RENT,4/2/2023,28000,42
+4,4 Tulsidham Road,401302,2,RENT,8/2/2023,13000,22
+5,172 Sir Bhalchandra Road,400014,4,BUY,8/2/2023,3000000,48
+6,"Orchids The International School, Borivali, #3/3A Tph Road",400092,3,RENT,2/3/2023,25000,36
+7,C mankoli naka,421202,4,BUY,4/3/2023,3200000,41
+8,C Balkum Road,400608,2,RENT,5/3/2023,38000,20
+9," Kaveri CHS, Sector-5 Utsav Chowk",410210,3,RENT,5/3/2023,38000,23
+10,A Lodha Case Rio Gold Rd (Planned),421204,3,RENT,5/3/2023,35000,30
+11,"Tulip Building, 720 Tilak Road",400014,3,BUY,8/3/2023,2500000,34
+12,"Kedar, H9 Glady's Alwares Avenue",401302,2,RENT,1/4/2023,15000,23
+13,B4 ?Kausa Talav Pali Road,400612,1,RENT,1/4/2023,10000,18
+14,"Amanda-A, A Canberra Terrace",401302,2,RENT,3/4/2023,18000,22
+15,3 Nana Nani Park Road,400610,5,BUY,6/4/2023,6000000,43
+16, A Thane Ghodbunder Road,400615,4,BUY,8/4/2023,5000000,40
+17,B Pokhran Road 1,400606,2,RENT,8/4/2023,25000,24
+18,plot no 280 Mahatma Gandhi Road,410206,3,BUY,3/5/2023,32000,40
+19,"tawa hotel, sec 35 Mansarovar Station Road",410218,4,RENT,3/5/2023,48000,46
+20,D Airoli - Katai Link Rd,420204,4,RENT,6/5/2023,50000,56
+21,"spa in juhu | massage centers in juhu yuanthaispa, 45",400095,2,RENT,6/5/2023,20000,34
+22,186 Nath Pai Nagar,400077,2,RENT,9/5/2023,18000,30
+23,C Airoli - Katai Link Rd,4211204,4,RENT,1/6/2023,42000,56
+24,J 21st Street,421204,1,RENT,1/6/2023,12000,20
+25,Sector 2 Kharghar Station Road,410210,2,RENT,1/6/2023,25000,32
+26," Sagar Tarang, 12 Smt. Shobha Bhaskar Joshi Marg",400050,3,RENT,2/6/2023,30000,38
+27,D Airoli - Katai Link Rd,420204,2,RENT,2/6/2023,25000,32
+28,C Airoli - Katai Link Rd,4211204,2,RENT,3/6/2023,22000,24
+29, A Thane Ghodbunder Road,400615,2,RENT,3/6/2023,24000,29
+30,plot no 280 Mahatma Gandhi Road,410206,2,RENT,5/6/2023,23000,39
+31,186 Nath Pai Nagar,400077,2,RENT,5/6/2023,28000,42
+32,J 21st Street,421204,4,RENT,5/6/2023,83000,48
+33, A Thane Ghodbunder Road,400615,4,BUY,5/6/2023,4800000,46
+34," Kaveri CHS, Sector-5 Utsav Chowk",410210,1,RENT,6/6/2023,13000,19
+35,A Lodha Case Rio Gold Rd (Planned),421204,1,RENT,2/7/2023,12000,22
+36,"Tulip Building, 720 Tilak Road",400014,2,RENT,2/7/2023,22000,30
+37,"tawa hotel, sec 35 Mansarovar Station Road",410218,3,RENT,4/7/2023,33000,44
+38,D Airoli - Katai Link Rd,420204,3,RENT,4/7/2023,32000,41
+39,"spa in juhu | massage centers in juhu yuanthaispa, 45",400095,3,RENT,6/7/2023,38000,54
+40,B4 ?Kausa Talav Pali Road,400612,4,BUY,7/7/2023,5500000,32
+41,D Lodha Case Rio Gold Rd (Planned),421204,1,RENT,7/7/2023,10000,23
+42,"Kaveri CHS, Sector-5 Utsav Chowk",410210,2,RENT,8/7/2023,26000,32
+43,4 Tulsidham Road,401302,2,RENT,2/8/2023,30000,44
+44,172 Sir Bhalchandra Road,400014,2,RENT,2/8/2023,28000,50
+45,plot no 280 Mahatma Gandhi Road,410206,2,RENT,3/8/2023,28000,27
+46,186 Nath Pai Nagar,400077,2,RENT,3/8/2023,25000,23
+47,C Airoli - Katai Link Rd,4211204,2,RENT,4/8/2023,28000,43
+48,J 21st Street,421204,2,RENT,4/8/2023,25000,28
+49,Sector 2 Kharghar Station Road,410210,2,RENT,6/8/2023,22000,34
+50,plot no 280 Mahatma Gandhi Road,410206,1,RENT,6/8/2023,12000,22
+51,186 Nath Pai Nagar,400077,1,RENT,4/9/2023,10000,24
+52,J 21st Street,421204,4,RENT,4/9/2023,73000,55
+53, A Thane Ghodbunder Road,400615,2,RENT,6/9/2023,25000,45

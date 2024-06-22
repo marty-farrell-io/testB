@@ -1,0 +1,64 @@
+{
+  "items" : [
+    {
+      "itemNumber": 1,
+      "itemName": "Bread",
+      "qtyInStock": 20,
+      "qtyInPlace": 18
+    },
+    {
+      "itemNumber": 2,
+      "itemName": "Milk",
+      "qtyInStock": 15,
+      "qtyInPlace": 13
+    },
+    {
+      "itemNumber": 3,
+      "itemName": "Apple",
+      "qtyInStock": 10,
+      "qtyInPlace": 8
+    },
+    {
+      "itemNumber": 4,
+      "itemName": "Banana",
+      "qtyInStock": 6,
+      "qtyInPlace": 6
+    },
+    {
+      "itemNumber": 5,
+      "itemName": "Eggs",
+      "qtyInStock": 25,
+      "qtyInPlace": 24
+    },
+    {
+      "itemNumber": 6,
+      "itemName": "Chocolate",
+      "qtyInStock": 12,
+      "qtyInPlace": 10
+    },
+    {
+      "itemNumber": 7,
+      "itemName": "Beef Steak",
+      "qtyInStock": 4,
+      "qtyInPlace": 3
+    },
+    {
+      "itemNumber": 8,
+      "itemName": "Toothpaste",
+      "qtyInStock": 19,
+      "qtyInPlace": 17
+    },
+    {
+      "itemNumber": 9,
+      "itemName": "Toilet Paper",
+      "qtyInStock": 7,
+      "qtyInPlace": 5
+    },
+    {
+      "itemNumber": 10,
+      "itemName": "Noodles",
+      "qtyInStock": 9,
+      "qtyInPlace": 8
+    }
+  ]
+}

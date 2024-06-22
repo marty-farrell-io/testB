@@ -1,0 +1,266 @@
+{
+  "vehicles": [
+    {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2018,
+      "vrm": "ABC123",
+      "engine_size": 2.5,
+      "fuel": "petrol",
+      "color": "blue",
+      "telematics_data": [
+        {
+          "timestamp": "2023-07-28T10:30:00Z",
+          "geolocation": {
+            "latitude": 37.7749,
+            "longitude": -122.4194
+          },
+          "obd_data": {
+            "rpm": 1200,
+            "speed": 60,
+            "engine_load": 25,
+            "coolant_temp": 90,
+            "fuel_level": 0.5,
+            "intake_air_temp": 20,
+            "maf_airflow": 120
+          }
+        },
+        {
+          "timestamp": "2023-07-28T10:35:00Z",
+          "geolocation": {
+            "latitude": 37.7745,
+            "longitude": -122.4201
+          },
+          "obd_data": {
+            "rpm": 1400,
+            "speed": 70,
+            "engine_load": 30,
+            "coolant_temp": 95,
+            "fuel_level": 0.4,
+            "intake_air_temp": 22,
+            "maf_airflow": 140
+          }
+        },
+        {
+          "timestamp": "2023-07-28T10:40:00Z",
+          "geolocation": {
+            "latitude": 37.7741,
+            "longitude": -122.4208
+          },
+          "obd_data": {
+            "rpm": 1600,
+            "speed": 80,
+            "engine_load": 35,
+            "coolant_temp": 100,
+            "fuel_level": 0.3,
+            "intake_air_temp": 24,
+            "maf_airflow": 160
+          }
+        },
+        {
+          "timestamp": "2023-07-28T10:45:00Z",
+          "geolocation": {
+            "latitude": 37.7737,
+            "longitude": -122.4215
+          },
+          "obd_data": {
+            "rpm": 1800,
+            "speed": 90,
+            "engine_load": 40,
+            "coolant_temp": 105,
+            "fuel_level": 0.2,
+            "intake_air_temp": 26,
+            "maf_airflow": 180
+          }
+        },
+        {
+          "timestamp": "2023-07-28T10:50:00Z",
+          "geolocation": {
+            "latitude": 37.7733,
+            "longitude": -122.4222
+          },
+          "obd_data": {
+            "rpm": 2000,
+            "speed": 100,
+            "engine_load": 45,
+            "coolant_temp": 110,
+            "fuel_level": 0.1,
+            "intake_air_temp": 28,
+            "maf_airflow": 200
+          }
+        },
+        {
+          "timestamp": "2023-07-28T10:55:00Z",
+          "geolocation": {
+            "latitude": 37.7729,
+            "longitude": -122.4229
+          },
+          "obd_data": {
+            "rpm": 2200,
+            "speed": 110,
+            "engine_load": 50,
+            "coolant_temp": 115,
+            "fuel_level": 0.0,
+            "intake_air_temp": 30,
+            "maf_airflow": 220
+          }
+        },
+        {
+          "timestamp": "2023-07-28T11:00:00Z",
+          "geolocation": {
+            "latitude": 37.7725,
+            "longitude": -122.4236
+          },
+          "obd_data": {
+            "rpm": 2400,
+            "speed": 120,
+            "engine_load": 55,
+            "coolant_temp": 120,
+            "fuel_level": 0.0,
+            "intake_air_temp": 32,
+            "maf_airflow": 240
+          }
+        },
+        {
+          "timestamp": "2023-07-28T11:05:00Z",
+          "geolocation": {
+            "latitude": 37.7721,
+            "longitude": -122.4243
+          },
+          "obd_data": {
+            "rpm": 2600,
+            "speed": 130,
+            "engine_load": 60,
+            "coolant_temp": 125,
+            "fuel_level": 0.0,
+            "intake_air_temp": 34,
+            "maf_airflow": 260
+          }
+        },
+        {
+          "timestamp": "2023-07-28T11:10:00Z",
+          "geolocation": {
+            "latitude": 37.7717,
+            "longitude": -122.4250
+          },
+          "obd_data": {
+            "rpm": 2800,
+            "speed": 140,
+            "engine_load": 65,
+            "coolant_temp": 130,
+            "fuel_level": 0.0,
+            "intake_air_temp": 36,
+            "maf_airflow": 280
+          }
+        },
+        {
+          "timestamp": "2023-07-28T11:15:00Z",
+          "geolocation": {
+            "latitude": 37.7713,
+            "longitude": -122.4257
+          },
+          "obd_data": {
+            "rpm": 3000,
+            "speed": 150,
+            "engine_load": 70,
+            "coolant_temp": 135,
+            "fuel_level": 0.0,
+            "intake_air_temp": 38,
+            "maf_airflow": 300
+          }
+        }
+      ]
+    },
+    {
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2019,
+      "vrm": "DEF456",
+      "engine_size": 5.0,
+      "fuel": "petrol",
+      "color": "blue",
+      "telematics_data": [
+        {
+          "timestamp": "2023-07-28T10:30:00Z",
+          "geolocation": {
+            "latitude": 37.7749,
+            "longitude": -122.4194
+          },
+          "obd_data": {
+            "rpm": 1200,
+            "speed": 60,
+            "engine_load": 25,
+            "coolant_temp": 90,
+            "fuel_level": 0.5,
+            "intake_air_temp": 20,
+            "maf_airflow": 120
+          }
+        },
+        {
+          "timestamp": "2023-07-28T10:35:00Z",
+          "geolocation": {
+            "latitude": 37.7745,
+            "longitude": -122.4201
+          },
+          "obd_data": {
+            "rpm": 1400,
+            "speed": 70,
+            "engine_load": 30,
+            "coolant_temp": 95,
+            "fuel_level": 0.4,
+            "intake_air_temp": 22,
+            "maf_airflow": 140
+          }
+        },
+        {
+          "timestamp": "2023-07-28T10:40:00Z",
+          "geolocation": {
+            "latitude": 37.7741,
+            "longitude": -122.4208
+          },
+          "obd_data": {
+            "rpm": 1600,
+            "speed": 80,
+            "engine_load": 35,
+            "coolant_temp": 100,
+            "fuel_level": 0.3,
+            "intake_air_temp": 24,
+            "maf_airflow": 160
+          }
+        },
+        {
+          "timestamp": "2023-07-28T10:45:00Z",
+          "geolocation": {
+            "latitude": 37.7737,
+            "longitude": -122.4215
+          },
+          "obd_data": {
+            "rpm": 1800,
+            "speed": 90,
+            "engine_load": 40,
+            "coolant_temp": 105,
+            "fuel_level": 0.2,
+            "intake_air_temp": 26,
+            "maf_airflow": 180
+          }
+        },
+        {
+          "timestamp": "2023-07-28T10:50:00Z",
+          "geolocation": {
+            "latitude": 37.7733,
+            "longitude": -122.4222
+          },
+          "obd_data": {
+            "rpm": 2000,
+            "speed": 100,
+            "engine_load": 45,
+            "coolant_temp": 110,
+            "fuel_level": 0.1,
+            "intake_air_temp": 28,
+            "maf_airflow": 200
+          }
+        }
+      ]
+    }
+  ]
+}

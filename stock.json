@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "itemNumber": 1,
+      "itemName": "Bread",
+      "qtyInStock": 20,
+      "qtyInPlace": 18
+    },
+    {
+      "itemNumber": 2,
+      "itemName": "Milk",
+      "qtyInStock": 15,
+      "qtyInPlace": 13
+    },
+    {
+      "itemNumber": 3,
+      "itemName": "Apple",
+      "qtyInStock": 10,
+      "qtyInPlace": 8
+    },
+    {
+      "itemNumber": 4,
+      "itemName": "Orange",
+      "qtyInStock": 6,
+      "qtyInPlace": 4
+    },
+    {
+      "itemNumber": 5,
+      "itemName": "Egg",
+      "qtyInStock": 24,
+      "qtyInPlace": 22
+    },
+    {
+      "itemNumber": 6,
+      "itemName": "Chocolate",
+      "qtyInStock": 12,
+      "qtyInPlace": 11
+    },
+    {
+      "itemNumber": 7,
+      "itemName": "Tomato",
+      "qtyInStock": 9,
+      "qtyInPlace": 7
+    },
+    {
+      "itemNumber": 8,
+      "itemName": "Potato",
+      "qtyInStock": 5,
+      "qtyInPlace": 3
+    },
+    {
+      "itemNumber": 9,
+      "itemName": "Banana",
+      "qtyInStock": 14,
+      "qtyInPlace": 10
+    },
+    {
+      "itemNumber": 10,
+      "itemName": "Coffee",
+      "qtyInStock": 7,
+      "qtyInPlace": 5
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "brand": "Toyota",
+      "year": 2020,
+      "mileage": 10000
+    },
+    {
+      "id": 2,
+      "brand": "Honda",
+      "year": 2018,
+      "mileage": 25000
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "num_leases": 1,
+      "total_paid": 1,
+      "active_leases": {}
+    },
+    {
+      "id": 2,
+      "num_leases": 1,
+      "total_paid": 1,
+      "active_leases": {
+        "2": 2
+      }
+    },
+    {
+      "id": 1,
+      "num_leases": 1,
+      "total_paid": 1,
+      "active_leases": {}
+    },
+    {
+      "id": 2,
+      "num_leases": 1,
+      "total_paid": 1,
+      "active_leases": {
+        "2": 2
+      }
+    }
+  ]
+}
